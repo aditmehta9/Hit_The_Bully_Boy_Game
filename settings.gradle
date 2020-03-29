@@ -1,0 +1,2 @@
+rootProject.name='gameadit'
+include ':app'
